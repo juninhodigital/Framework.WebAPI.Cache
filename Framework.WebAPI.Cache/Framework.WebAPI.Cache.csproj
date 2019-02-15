@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Framework.Services.Cache" Version="1.0.2" />
+    <PackageReference Include="System.Runtime.Caching" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Framework.Cache">
+      <HintPath>..\..\Framework.Cache\Framework.Cache\bin\Debug\netstandard2.0\Framework.Cache.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
