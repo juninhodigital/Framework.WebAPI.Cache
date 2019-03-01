@@ -12,7 +12,7 @@ Technologies
 
 Full Version  | NuGet		       | Package Manager
 :------------ | :-------------|:----------------
-Framework.Services.WebAPI.Cache          | <img src="https://github.com/juninhodigital/Framework.Core/blob/master/nuget.svg"/> | PM > Install-Package Framework.Data
+Framework.Services.WebAPI.Cache          | <img src="https://github.com/juninhodigital/Framework.Core/blob/master/nuget.svg" /> | PM > Install-Package Framework.Data
 
 ## Contribute
 The best way to contribute is by **putting in some good words** about the library and help me out by:
